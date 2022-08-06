@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic&family=Mouse+Memoirs&family=Nunito:wght@700&display=swap');
+
+$font-body: "Carrois Gothic", sans-serif;
+$font-logo: "Mouse Memoirs", sans-serif;
+$font-display: "Nunito", sans-serif;
+
+$color-primary: #192841;
+$color-secondary: #45b6fe;
+$color-footer: #FFFEE9;
+$color-white: #fafafa;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: $font-body;
+    color: $color-primary;
+}
+
+a:link,
+a:visited {
+    text-decoration: none;
+}
