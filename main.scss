@@ -36,3 +36,15 @@ nav {
     font-size: 130px;
     color: $color-primary;
 }
+
+.login-button {
+    display: block;
+    width: 220px;
+    background-color: $color-white;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: $color-primary;
+    font-size: 50px;
+    border: 2px solid $color-primary;
+}
