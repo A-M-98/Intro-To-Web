@@ -45,6 +45,7 @@ nav {
     color: $color-primary;
     font-size: 50px;
     border: 2px solid $color-primary;
+    font-family: $font-body;
 }
 
 .get-dadvice-button {
@@ -57,6 +58,7 @@ nav {
     border-radius: 10px;
     color: $color-white;
     font-size: 50px;
+    font-family: $font-body;
 }
 
 .sign-up-button {
@@ -69,6 +71,7 @@ nav {
     border-radius: 10px;
     color: $color-white;
     font-size: 50px;
+    font-family: $font-body;
 }
 
 header {
@@ -78,6 +81,36 @@ header {
     color: $color-secondary;
     text-align: center;
 }
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 55px;
+    font-family: $font-body;
+    color: $color-primary;
+    display: flex;
+}
+
+h4 {
+    text-align: center;
+    font-size: 40px;
+    font-family: $font-body;
+    color: $color-secondary;
+}
+
+h5 {
+    text-align: center;
+    font-size: 32px;
+    font-family: $font-body;
+    color: $color-primary;
+    display: flex;
+}
+
+
 
 
 footer {
