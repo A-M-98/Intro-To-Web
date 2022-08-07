@@ -110,7 +110,21 @@ h5 {
     display: flex;
 }
 
+h6 {
+    text-align: center;
+    font-size: 32px;
+    font-family: $font-body;
+    color: $color-primary;
+}
 
+p {
+    text-align: center;
+    font-size: 25px;
+    font-family: $font-body;
+    color: $color-primary;
+    justify-content: center;
+    display: flex;
+}
 
 
 footer {

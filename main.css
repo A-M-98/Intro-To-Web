@@ -100,6 +100,22 @@ h5 {
   display: flex;
 }
 
+h6 {
+  text-align: center;
+  font-size: 32px;
+  font-family: "Carrois Gothic", sans-serif;
+  color: #192841;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-family: "Carrois Gothic", sans-serif;
+  color: #192841;
+  justify-content: center;
+  display: flex;
+}
+
 footer {
   height: 35vh;
   background-color: #FFFEE9;
