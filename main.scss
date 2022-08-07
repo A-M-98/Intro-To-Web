@@ -10,7 +10,7 @@ $color-footer: #FFFEE9;
 $color-white: #fafafa;
 
 *{
-    margin: 0;
+    margin:1;
     padding: 0;
     box-sizing: border-box;
     font-family: $font-body;
@@ -27,7 +27,7 @@ nav {
     background-color: $color-white;
     padding: 0 40px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
 }
 
@@ -47,4 +47,16 @@ nav {
     color: $color-primary;
     font-size: 50px;
     border: 2px solid $color-primary;
+}
+
+.get-dadvice-button {
+    display: block;
+    width: 400px;
+    justify-content: space-evenly;
+    background-color: $color-primary;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: $color-white;
+    font-size: 50px;
 }
