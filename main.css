@@ -50,3 +50,15 @@ nav {
   color: #fafafa;
   font-size: 50px;
 }
+
+.sign-up-button {
+  display: block;
+  width: 400px;
+  justify-content: space-evenly;
+  background-color: #192841;
+  text-align: center;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fafafa;
+  font-size: 50px;
+}

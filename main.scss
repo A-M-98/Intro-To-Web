@@ -60,3 +60,15 @@ nav {
     color: $color-white;
     font-size: 50px;
 }
+
+.sign-up-button {
+    display: block;
+    width: 400px;
+    justify-content: space-evenly;
+    background-color: $color-primary;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: $color-white;
+    font-size: 50px;
+}
